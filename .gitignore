@@ -1,0 +1,9 @@
+# Ignorar los archivos .class
+*.class
+
+# Ignorar los archivos .swp
+*.swp
+
+# Ignorar los archivos de proyecto de tu IDE seleccionado
+.project
+.idea
